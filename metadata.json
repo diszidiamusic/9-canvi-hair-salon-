@@ -1,0 +1,11 @@
+{
+  "name": "Perruqueria 9 canvi by Vanessa Cegarra",
+  "description": "Tu salón de peluquería experto en Balayage, rubios y cortes de tendencia en Igualada. Estilo, técnica y formación constante.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "responsive",
+    "animations"
+  ]
+}
